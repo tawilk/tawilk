@@ -1,16 +1,22 @@
-## Hi there 👋
+# Thomas Wilk, PhD
 
-<!--
-**tawilk/tawilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Health Economist at the National Bureau of Economic Research (NBER)
 
-Here are some ideas to get you started:
+## Research Areas
+- Health policy
+- Drug policy
+- Applied microeconomics
+- Causal inference
+- Spatial economics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Cannabis Retail Implementation Dates
+- Cannabis Access and Older Adult Health
+- IHS Access & Disparities in COVID-19, Long-COVID, & Healthcare Utilization among AIAN Populations  
+- The Disproportionate Burden of AIAN
+- Transaction Costs and the Alcohol/Marijuana Relationship
+- University Enrollment and Cannabis Sales
+- Grower Exernalities on Home Prices
+
+## Website
+https://www.tomwilk.com
