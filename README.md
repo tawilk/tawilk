@@ -13,7 +13,7 @@ I study how public policy, geography, and market structure influence health beha
 
 ## Current Projects
 - Spatial Access, Transaction Costs, and Alcohol–Marijuana Relationship
-- - IHS Access, COVID-19, and Health Care Utilization among AIAN Populations
+- IHS Access, COVID-19, and Health Care Utilization among AIAN Populations
 - COVID-19 Health and Economic Outcomes among AIAN Populations
 - Cannabis Retail Implementation Dates
 - Cannabis Access and Older Adult Health
