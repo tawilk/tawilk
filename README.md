@@ -21,13 +21,10 @@ I study how public policy, geography, and market structure influence health beha
 - Grower Exernalities on Home Prices
 
 ## Links
-Website: https://www.tomwilk.com
-
-Google Scholar: https://scholar.google.com/citations?user=ySNDTUoAAAAJ&hl=en
-
-ORC-ID: https://orcid.org/0009-0008-8981-9739
-
-LinkedIn: https://www.linkedin.com/in/economyst/
+- Website: https://www.tomwilk.com
+- Google Scholar: https://scholar.google.com/citations?user=ySNDTUoAAAAJ&hl=en
+- ORC-ID: https://orcid.org/0009-0008-8981-9739
+- LinkedIn: https://www.linkedin.com/in/economyst/
 
 ## Data & Code
 This GitHub hosts datasets, replication materials, and code accompanying my published and working papers.
