@@ -12,11 +12,11 @@ I study how public policy, geography, and market structure influence health beha
 - Spatial economics
 
 ## Current Projects
+- Spatial Access, Transaction Costs, and Alcohol–Marijuana Relationship
+- - IHS Access, COVID-19, and Health Care Utilization among AIAN Populations
+- COVID-19 Health and Economic Outcomes among AIAN Populations
 - Cannabis Retail Implementation Dates
 - Cannabis Access and Older Adult Health
-- IHS Access & Disparities in COVID-19, Long-COVID, & Healthcare Utilization among AIAN Populations  
-- The Disproportionate Burden of AIAN
-- Transaction Costs and the Alcohol/Marijuana Relationship
 - University Enrollment and Cannabis Sales
 - Grower Exernalities on Home Prices
 
@@ -28,3 +28,6 @@ I study how public policy, geography, and market structure influence health beha
 
 ## Data & Code
 This GitHub hosts datasets, replication materials, and code accompanying my published and working papers.
+
+## Selected Publications
+Publication information and replication materials will be added as manuscripts are published.
